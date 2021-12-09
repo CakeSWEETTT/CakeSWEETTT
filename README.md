@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi 我是CakeSWEETTT，初来乍到还请多多指教~ 👋
+***
+#### School 👩‍🎓
++ 上海交通大学研究生在读（园艺学）
++ 西北农林科技大学学士（设施农业科学与工程）
+#### Contact me 📱
++ Email：amandayymm@sjtu.edu.cn
++ Phone: 13527535223
 <!--
 **CakeSWEETTT/CakeSWEETTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
