@@ -6,6 +6,8 @@
 #### Contact me 📱
 + Email：amandayymm@sjtu.edu.cn
 + Phone: 13527535223
+#### Language 💻
++ Java
 <!--
 **CakeSWEETTT/CakeSWEETTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
